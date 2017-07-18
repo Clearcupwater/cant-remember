@@ -1,0 +1,16 @@
+{
+  "name": "fastlibrary",
+  "version": "1.0.0",
+  "description": "practicing nodejs mondodb and redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongodb": "^2.2.30",
+    "redis": "^2.7.1"
+  }
+}
